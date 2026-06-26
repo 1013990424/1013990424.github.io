@@ -13,7 +13,7 @@ profile:
     <p>Beijing, China</p>
 
 selected_papers: true
-social: true
+social: false
 
 announcements:
   enabled: true
